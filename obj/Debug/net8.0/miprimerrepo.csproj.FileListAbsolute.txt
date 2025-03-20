@@ -1,0 +1,15 @@
+/workspaces/miprimerrepo/bin/Debug/net8.0/miprimerrepo
+/workspaces/miprimerrepo/bin/Debug/net8.0/miprimerrepo.deps.json
+/workspaces/miprimerrepo/bin/Debug/net8.0/miprimerrepo.runtimeconfig.json
+/workspaces/miprimerrepo/bin/Debug/net8.0/miprimerrepo.dll
+/workspaces/miprimerrepo/bin/Debug/net8.0/miprimerrepo.pdb
+/workspaces/miprimerrepo/obj/Debug/net8.0/miprimerrepo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miprimerrepo/obj/Debug/net8.0/miprimerrepo.AssemblyInfoInputs.cache
+/workspaces/miprimerrepo/obj/Debug/net8.0/miprimerrepo.AssemblyInfo.cs
+/workspaces/miprimerrepo/obj/Debug/net8.0/miprimerrepo.csproj.CoreCompileInputs.cache
+/workspaces/miprimerrepo/obj/Debug/net8.0/miprimerrepo.sourcelink.json
+/workspaces/miprimerrepo/obj/Debug/net8.0/miprimerrepo.dll
+/workspaces/miprimerrepo/obj/Debug/net8.0/refint/miprimerrepo.dll
+/workspaces/miprimerrepo/obj/Debug/net8.0/miprimerrepo.pdb
+/workspaces/miprimerrepo/obj/Debug/net8.0/miprimerrepo.genruntimeconfig.cache
+/workspaces/miprimerrepo/obj/Debug/net8.0/ref/miprimerrepo.dll
